@@ -17,12 +17,12 @@ This HTML pages is created with 2 coloumn layout with a header, nav bar and a co
  
 ## Technologies used
  
- HTML
- CSS
+HTML
+CSS
  
 ### LEGAL
 
- * Copyright (c) 2015 Anitha Srini
+* Copyright (c) 2015 Anitha Srini
  
 This software is licensed under the MIT license.
 
