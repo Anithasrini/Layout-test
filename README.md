@@ -15,15 +15,16 @@ This HTML pages is created with 2 coloumn layout with a header, nav bar and a co
  * Then open your web browser of choice.
  * Execute the page.
  
- ## Technologies used
+## Technologies used
  
  HTML
  CSS
  
- ### LEGAL
+### LEGAL
+
  * Copyright (c) 2015 Anitha Srini
  
- This software is licensed under the MIT license.
+This software is licensed under the MIT license.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
