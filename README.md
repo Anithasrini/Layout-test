@@ -6,7 +6,7 @@
 ## Description
  
  {This HTML pages is created with 2 coloumn layout with a header, nav bar and a container with footer.This will be useful for beginners, 
- who wants to create a 2 coloumn page in html and CSS.This excercise is the sole development of Anitha Srini
+ who wants to create a 2 coloumn page in html and CSS.This excercise is the sole development of Anitha Srini.}
  
  
  ## setup
