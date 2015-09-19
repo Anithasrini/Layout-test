@@ -5,11 +5,11 @@
 
 ## Description
  
- {This HTML pages is created with 2 coloumn layout with a header, nav bar and a container with footer.This will be useful for beginners, 
- who wants to create a 2 coloumn page in html and CSS.This excercise is the sole development of Anitha Srini.}
+ _{This HTML pages is created with 2 coloumn layout with a header, nav bar and a container with footer.This will be useful for beginners, 
+ who wants to create a 2 coloumn page in html and CSS.This excercise is the sole development of Anitha Srini.}_
  
  
- ## setup
+ ## Setup
  
  * Clone this repository.
  * Open a simple HTTP server in the cloned directory.For a mac, run the following command in your terminal:
