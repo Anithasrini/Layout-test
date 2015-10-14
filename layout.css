@@ -5,14 +5,14 @@ margin-left: 17px;
 color: #000;
 background-color: grey;
 }
-# wrapper{
+.wrapper{
 width: 917px;
 margin-left: 5px;
 margin-right: 5px;
 background-color: #99c;
 }
 
-#header{
+.header{
 background-color: #D8D8D8;
 width: 968px;
 padding: 4px;
@@ -22,7 +22,7 @@ margin: 0;
 h1 {
 margin: 0;
 }
-#nav ul{
+.nav ul{
 margin: 0;
 padding: 8px;
 list-style: none;
@@ -31,35 +31,35 @@ font-color: #3F3FBF;
 h2{
 margin: 15px 15px;
 }
-#main h3{
+.main h3{
 color: blue;
 font-size: medium;
 }
-#main{
+.main{
 text-align: left;
 width: 915px;
 }
-#main h4{
+.main h4{
 color: purple;
 font-size: small;
 }
-#nav li {
+.nav li {
 display: inline;
 margin: 0;
 padding: 0;
 list-style: none;
 }
-#nav{
+.nav{
 background: #c99;
 }
-#main {
+.main {
 width: 58.4%;
 background: #9c9;
 float: left;
 min-height: 532px;
 padding:10px;
 }
-#sidebar {
+.sidebar {
 float: right;
 width: 37.4%;
 background-color: #99c;
@@ -68,7 +68,7 @@ padding: 10px;
 margin-left: 0;
 }
 
-#footer p{
+.footer p{
 clear: both;
 background-color: #cc9;
 padding: 5px 5px;
