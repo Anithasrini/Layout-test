@@ -1,76 +1,76 @@
 body,
- html{
-margin-right: 22px;
-margin-left: 17px;
-color: #000;
-background-color: grey;
+ html {
+  margin: 0px;
+  padding: 0;
+  color: #000;
+  background-color: grey;
 }
-# wrapper{
-width: 917px;
-margin-left: 5px;
-margin-right: 5px;
-background-color: #99c;
+.wrap {
+  width: 750px;
+  margin: 0 auto;
+  background-color: #99c;
 }
 
-#header{
-background-color: #D8D8D8;
-width: 969px;
-padding: 4px;
-margin: 0;
-}
+.header {
+  background-color: #ddd;
+  padding: 5px 10px;
+  
+ }
 
 h1 {
-margin: 0;
+   margin: 0;
 }
-#nav ul{
-margin: 0;
-padding: 8px;
-list-style: none;
-font-color: #3F3FBF;
+.nav ul {
+  margin: 0;
+  padding: 0px;
+  list-style: none;
+  font-color: #3F3FBF;
 }
-h2{
-margin: 15px 15px;
+h2 {
+  margin: 0 0 1em;
 }
-#main h3{
-color: blue;
-font-size: medium;
+.h3 {
+ color: blue;
+ font-size: medium;
 }
-#main{
-text-align: left;
-width: 915px;
+.main{
+  text-align: left;
 }
-#main h4{
-color: purple;
-font-size: small;
+h4 {
+  color: purple;
+  font-size: small;
 }
-#nav li {
-display: inline;
-margin: 0;
-padding: 0;
-list-style: none;
+.nav li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
-#nav{
-background: #c99;
+.nav {
+  background: #c99;
+  padding: 5px 10px;
 }
-#main {
-width: 58.4%;
-background: #9c9;
-float: left;
-min-height: 532px;
-padding:10px;
+.main {
+  width: 480px;
+  background: #9c9;
+  float: left;
+  padding:10px;
 }
-#sidebar {
-float: right;
-width: 37.4%;
-background-color: #99c;
-min-height: 532px;
-padding: 10px;
-margin-left: 0;
+.sidebar {
+  float: right;
+  width: 230px;
+  background-color: #99c;
+  padding: 10px;
 }
 
-#footer p{
-clear: both;
-background-color: #cc9;
-padding: 5px 5px;
-min-height: 20px;
+.footer {
+  clear: both;
+  background-color: #cc9;
+  padding:5px 10px;
+}
+.footer p {
+   margin: 0;
+   height: 10px;
+}
+   
 }
