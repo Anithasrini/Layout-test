@@ -19,6 +19,7 @@ This HTML pages is created with 2 coloumn layout with a header, nav bar and a co
  
 HTML
 CSS
+**Check this link to view the page online [http://Anithasrini.github.io/Layout-test]**
  
 ### LEGAL
 
