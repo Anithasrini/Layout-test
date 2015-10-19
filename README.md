@@ -14,6 +14,8 @@ This HTML pages is created with 2 coloumn layout with a header, nav bar and a co
  * Run simple HTTP server.
  * Then open your web browser of choice.
  * Execute the page.
+ * You can go to *[http://Anithasrini.github.io/Layout-test]* to view my page.
+  
  
 ## Technologies used
  
